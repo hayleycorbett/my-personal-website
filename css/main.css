@@ -33,10 +33,10 @@ header {
 }
 header h1 {
     padding: 50px 0;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Questrial', sans-serif;
     font-size: 40px;
     letter-spacing: 2px;
-    color: white;
+    color: #babf87;
 }
 nav {
     float: left;
@@ -49,20 +49,19 @@ nav ul li a {
     text-transform: uppercase;
     text-decoration: none;
     font-size: 20px;
-    color: white;
+    color: #70726c;
     padding-left: 80px;
 }
 header h2 {
     width: 1000px;
     clear: both;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Questrial', sans-serif;
     font-size: 72px;
     line-height: 80px;
-    color: white;
-    padding: 130px 0;
+    color: #70726c;
 }
 header h2 span {
-    color: white;
+    color: black;
 }
 
 /***** ABOUT *****/
@@ -88,7 +87,7 @@ header h2 span {
 /***** WORK *****/
 
 #work {
-    background-color: #c3c7c8;
+    background-color: #f2f2f2;
     text-align: center;
 }
 #work .full-width {
@@ -121,7 +120,7 @@ header h2 span {
     padding: 75px 0;
 }
 #contact-img {
-    border: 10px solid #c3c7c8;
+    border: 5px solid #babf87;
 }
 #contact h2, #email-header, #socialmedia-header, #contact ul {
     padding-left: 115px;
@@ -145,7 +144,7 @@ header h2 span {
 }
 #contact a {
     text-decoration: none;
-    color: #808080;
+    color: #babf87;
     font-weight: bold;
     font-size: 28px;
     padding-left: 17px;
